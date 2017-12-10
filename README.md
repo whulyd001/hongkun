@@ -60,12 +60,8 @@
 
 视频资料：暂不展示
 
-<div class="con-2 hv-pos hv-center" suda-uatrack="key=wb_PC_H5_player&amp;value=video_profile_click">
-        <video autoplay="" src="//f.us.sinaimg.cn/002xb4pIlx07gj9EgC8U01040102fu9F0k02.mp4?label=mp4_hd&amp;template=28&amp;Expires=1512919995&amp;ssig=cQWJeQDtJK&amp;KID=unistore,video">
-            您的浏览器不支持HTML5
-        </video>
-    </div>
-    
+https://weibo.com/tv/v/Fy3qwniCV?fid=1034:bdbde3d303c3ac7d13dcd06161117173
+
 音频资料：暂不展示
 
 # 精彩回放
