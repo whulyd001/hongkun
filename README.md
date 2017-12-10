@@ -47,6 +47,9 @@
 
 # 视频采访
 
+视频资料：暂不展示
+音频资料：暂不展示
+
 # 精彩回放
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg.jpg)
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg2.jpg)
