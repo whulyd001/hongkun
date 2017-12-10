@@ -13,6 +13,23 @@
 
 # 作品展示
 
+名称：鸿坤原乡小镇
+
+地产商名称：天津新鸿房地产投资有限公司 
+
+位置：天津市宝坻区京津新城宝白公路与龙江大街交口
+
+土地：2013年拿地，2017年宣称竣工
+
+政府验收情况：暂无，未出示相关验收证明
+
+物业费：3.5元/平米
+
+物业公司：
+
+
+
+
 -![顶级设计之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg-c1.jpg)
 -![顶级设计之五](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg-c5.jpg)
 -![顶级设计之二](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg-c2.jpg)
