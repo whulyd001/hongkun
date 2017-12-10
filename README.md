@@ -9,7 +9,7 @@
 
 -[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-本项目采用国际顶级欺诈技术，侵权必纠！
+本项目（鸿坤原乡小镇）采用国际顶级欺诈技术，侵权必纠！
 
 # 鸿坤光辉事迹
 
