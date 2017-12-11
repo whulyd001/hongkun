@@ -68,5 +68,14 @@ https://weibo.com/tv/v/Fy3qwniCV?fid=1034:bdbde3d303c3ac7d13dcd06161117173
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg.jpg)
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/webwxgetmsgimg2.jpg)
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/1210151330.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/67b69d0bly1fm2qwa2j05j20zo0qowre.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/67b69d0bly1fm2qwb55l8j20zo0qodt9.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm95jfma5xj30dd0a00u7.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjlsicvj31be0qo4a5.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjkx8eqj31be0qo7gc.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8yjk5mauj31be0qodsd.jpg)
+-![精彩回放之一](https://github.com/whulyd001/hongkun/blob/master/0070wiHXly1fm8j6430v5j30zn0qo12v.jpg)
+
+
 -![精彩回放之一](https://github.com/whulyd001/fuckhongkun/blob/master/20171210151343.mp4)
 
